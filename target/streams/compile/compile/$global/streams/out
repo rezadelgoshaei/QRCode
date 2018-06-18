@@ -1,0 +1,10 @@
+[error] C:\code\helloWorld1\src\main\scala\firstCode\QrtestBuild.scala:5:12: object google is not a member of package com
+[error] import com.google._
+[error]            ^
+[error] C:\code\helloWorld1\src\main\scala\firstCode\QrtestBuild.scala:15:24: not found: type QRCodeWriter
+[error]     val qrwriter = new QRCodeWriter()
+[error]                        ^
+[error] C:\code\helloWorld1\src\main\scala\firstCode\QrtestBuild.scala:18:5: not found: value MatrixToImageWriter
+[error]     MatrixToImageWriter.writeToPath(bitMatrix,"PNG",path1)
+[error]     ^
+[error] three errors found
